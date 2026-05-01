@@ -1,6 +1,6 @@
-pandas==2.2.3
-pandas-ta==0.4.71b0
-requests==2.31.0
-python-telegram-bot==20.8
-tqdm==4.66.2
-nest-asyncio==1.6.0
+pandas
+pandas-ta
+requests
+python-telegram-bot
+tqdm
+nest-asyncio
